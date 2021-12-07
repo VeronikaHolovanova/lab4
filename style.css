@@ -1,0 +1,16 @@
+h1{
+    background-color:CornflowerBlue;
+    color:white;
+    padding:20px;
+    text-align: center;
+}
+.myform input{
+    margin:7px;
+}
+table{
+    margin:7px;
+    text-align: center;
+}
+body{
+    font-family: Andale Mono, monospace;
+}
